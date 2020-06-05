@@ -1,0 +1,7 @@
+__pycache__/
+ana/
+boarder/
+datasets/
+grass_recognition/
+log/
+weights/
